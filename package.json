@@ -1,6 +1,6 @@
 {
   "name": "dsh-workspace-cake",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": false,
   "description": "One bundle for the workspace list: right-click shortcuts, workspace pinning with a faint divider, and recency ordering of workspace groups.",
   "type": "module",
