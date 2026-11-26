@@ -1,0 +1,10 @@
+# 本地发布脚本：只在本机用，不入库
+/deploy.sh
+
+# 发布产物与依赖
+/dist/
+/node_modules/
+
+# 系统与编辑器
+.DS_Store
+*.log

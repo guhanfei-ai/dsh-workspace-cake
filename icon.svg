@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Workspace cake">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#4a4460"/>
+  <path d="M14 30c0-2.2 1.8-4 4-4h28c2.2 0 4 1.8 4 4v4H14z" fill="#ffffff" opacity="0.95"/>
+  <path d="M12 36h40v6H12z" fill="#ffffff" opacity="0.62"/>
+  <path d="M16 44h32a2 2 0 0 1 2 2v2H14v-2a2 2 0 0 1 2-2z" fill="#ffffff" opacity="0.38"/>
+  <path d="M32 26v-6" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.95"/>
+  <circle cx="32" cy="17" r="3" fill="#ff8a8a"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace cake",
+    "description": "One bundle for the sidebar workspace list: a context menu (pin, unpin all, open file tree, open terminal, copy absolute path, open in Cursor or VS Code), workspace pinning (pinned groups always lead and are ordered by recency too), recency ordering, a faint divider after the pinned block, and a collapse-all button in the header. A running workspace breathes its name; a finished-but-unread one keeps a static tint plus a left bar. Every visual and menu entry can be switched off in Settings → Workspace cake. Ordering uses the sidebar registration seam and never writes the durable order or touches a session."
+  }
+}
